@@ -21,4 +21,4 @@ simplejson==3.11.1
 six==1.10.0
 tweepy==3.5.0
 twitter==1.17.1
-urllib3==1.22
+urllib3==1.26.5
